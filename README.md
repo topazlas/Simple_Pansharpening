@@ -42,3 +42,7 @@ output_path = 'path/to/output/fused_image.jpg'
 ### Simple Mean
 <img src="results/simple_mean.jpg" width="400px" height="400px" title="1"></img><br/>
 
+## License
+All code and documentation in this project are available under the [MIT License](https://opensource.org/licenses/MIT).
+See the [LICENSE file](./LICENSE) for details.
+
